@@ -1,6 +1,6 @@
 {
   "name": "洛聖加島嶼",
-  "tagline": "「洛聖加島嶼」是一個專為納斯卡伺服器西城群島島主提供的免費服務（沒錯！是免費！）。",
-  "body": "## 新手指南 ##\r\n\r\n不懂HTML？不懂Markdown？第一次使用Git？第一次使用GitHub Pages？以上困難都可以參考下面的「**新手指南**」來解決！\r\n\r\n - HTML：[W3Schools HTML教學](http://www.w3schools.com/html/)\r\n - Markdown：[Markdown語法說明](http://markdown.tw/)\r\n - Git：[Git基本教學](http://dylandy.github.io/Easy-Git-Tutorial/)\r\n - GitHub Pages：[建立GitHub Pages教學](https://dotblogs.com.tw/brooke/2014/10/17/146996)",
+  "tagline": "一個專為納斯卡伺服器西城群島島主提供的免費服務",
+  "body": "## 建設目的 ##\r\n\r\n**洛聖加島嶼**是為了幫助納斯卡伺服器西城群島島主能夠更容易設立島嶼官方網站的免費服務，\r\n\r\n\r\n## 新手指南 ##\r\n\r\n不懂HTML？不懂Markdown？第一次使用Git？第一次使用GitHub Pages？以上困難都可以參考下面的「**新手指南**」來解決！\r\n\r\n - HTML：[W3Schools HTML教學](http://www.w3schools.com/html/)\r\n - Markdown：[Markdown語法說明](http://markdown.tw/)\r\n - Git：[Git基本教學](http://dylandy.github.io/Easy-Git-Tutorial/)\r\n - GitHub Pages：[建立GitHub Pages教學](https://dotblogs.com.tw/brooke/2014/10/17/146996)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
