@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://github.com:443/LosSengasIslands/LosSengasIslands.github.io.git/trunk/assets/sass/libs
+https://github.com:443/LosSengasIslands/LosSengasIslands.github.io.git
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+329bdf3e-455b-09d5-2a8b-ce57b7db7bff
+
+_mixins.scss
+file
+
+
+
+add
+
+_functions.scss
+file
+
+
+
+add
+
+_vars.scss
+file
+
+
+
+add
+
+_skel.scss
+file
+
+
+
+add
+
